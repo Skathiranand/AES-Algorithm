@@ -1,8 +1,12 @@
 ## AES-Encrption-Using-Python
+
 Encryption-and-Decryption-using-AES-algorithm
 
-## Technologys used
-My Skills
+![image](https://github.com/user-attachments/assets/1ca05b66-e176-49ae-9d3d-419b5dcda532)
+
+## Technology used
+
+[![My Skills](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
 
 ## Installing Dependencies -
 Tinkter - Python's GUI Library
